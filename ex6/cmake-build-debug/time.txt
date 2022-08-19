@@ -1,0 +1,4 @@
+t_insert_to_stack: 28087
+t_insert_to_avl: 135325
+t_find_in_stack: 131
+t_find_in_avl: 97
